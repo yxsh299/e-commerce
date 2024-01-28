@@ -121,7 +121,7 @@ const link: LinkType = ({ appearances, disableLabel = false, overrides = {} } = 
           label:      'icon',
           type:       'upload',
           relationTo: 'media',
-        }
+        },
       ],
     })
   } else {

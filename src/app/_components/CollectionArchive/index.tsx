@@ -6,7 +6,7 @@ import qs from 'qs'
 import type { Product } from '../../../payload/payload-types'
 import type { ArchiveBlockProps } from '../../_blocks/ArchiveBlock/types'
 import { Card } from '../Card'
-import { Gutter } from '../Gutter'
+
 import { PageRange } from '../PageRange'
 import { Pagination } from '../Pagination'
 
